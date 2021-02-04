@@ -1,3 +1,11 @@
+# Schel specific
+# !!!CUIDADO TOKENS PESSOAIS!!!
+# !!!PERMITE BRECHA NA CONTA PESSOAL!!!
+client.txt
+credentials.json
+token.json
+misc/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
